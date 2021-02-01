@@ -1,4 +1,8 @@
-[![Build Status](https://dev.azure.com/papinka/CI_CD/_apis/build/status/shannontjoa.pipelines-javascript?branchName=master)](https://dev.azure.com/papinka/CI_CD/_build/latest?definitionId=1&branchName=master)
+https://dev.azure.com/papinka/CI_CD/_apis/build/status/shannontjoa.pipelines-javascript?branchName=master
+
+
+https://dev.azure.com/papinka/CI_CD/_apis/build/status/shannontjoa.pipelines-javascript?branchName=master
+
 
 # Sample NodeJS application for Azure Pipelines docs
 
